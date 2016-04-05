@@ -1,0 +1,13 @@
+/* Empty. Add your own CSS if you like */
+.ta-editor {
+  min-height: 300px;
+  height: auto;
+  overflow: auto;
+  font-family: inherit;
+  font-size: 100%;
+}
+
+textarea{
+    width: 100%;
+    height: 700px;
+}
