@@ -1,4 +1,4 @@
-# TextAngularIonic
+# Ionic-textAngular
 Steps to run:
 <ol>
 <li>ionic Start textAngular-Ionic</li>
